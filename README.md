@@ -12,4 +12,4 @@ Red RGB LED for player 1 Blue for player 2, Green for Win state, Yellow for tie 
 ## Physical FPGA Demo ![demo](https://github.com/gaonjc/TicTacToe-FPGA-/blob/main/TicTacToeDemo.gif)
 
 ## Serial Terminal Demo ![demo](https://github.com/gaonjc/TicTacToe-FPGA-/blob/main/TeraTermSerial.gif)
-# baud rate set to 9600 UART module from Dr. Eddin can be found [*here*](https://github.com/aseddin/3300L_lab_guides/tree/main/lab12/starter%20code)
+baud rate set to 9600 UART module from Dr. Eddin can be found [*here*](https://github.com/aseddin/3300L_lab_guides/tree/main/lab12/starter%20code)
