@@ -5,6 +5,7 @@ Serial terminal will display grid with numbers representing the states on the FS
 Once a player selects a square it cannot be overwritten until the CPU reset button is pressed.
 The player can only select squares that still have a number in them.
 Red RGB LED for player 1 Blue for player 2, Green for Win state, Yellow for tie state.
+## baud rate 9600
 # The top module can be found [*here*](https://github.com/gaonjc/TicTacToe-FPGA-/blob/main/src/tictactoe_main.v)
 # The constraint file can be found [*here*](https://github.com/gaonjc/TicTacToe-FPGA-/blob/main/src/Nexys-A7-100T-Master.xdc)
 # The FSM module responsible for sending ASCII to the terminal can be found [*here*](https://github.com/gaonjc/TicTacToe-FPGA-/blob/main/src/tictactoe_uart.v)
